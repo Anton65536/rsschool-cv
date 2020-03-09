@@ -6,5 +6,5 @@ Summary |
 Skills |
 Code Examples | [GitHub](https://github.com/Anton65536/Diplom)
 Experience | 
-Education |
-English |
+Education | BSU 2019
+English | B2 (Upper-Intermediate)
